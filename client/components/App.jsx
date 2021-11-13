@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react'
 import { playAudio } from '../apiClient'
 
 const App = () => {
-  // const guitarStrings = ['firstE.wav', 'secondB.wav', 'thirdG.wav', 'fourthD', 'fifthA', 'sixthE.wav']
   return (
     <>
       <h1>Tune and Learn Your Guitar</h1>
