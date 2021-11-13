@@ -1,5 +1,18 @@
+@font-face {
+  font-family: 'Georgia Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Georgia Regular'), url('./georgia.woff') format('woff');
+  }
+
 .guitar {
-  width: 75%;
+  width: 65%;
   height: auto;
 }
 
+.Header {
+  background-image: url(./images/header.png);
+  padding: 2em;
+  text-align: center;
+  color:gold;
+}
