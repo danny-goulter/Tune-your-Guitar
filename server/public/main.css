@@ -26,6 +26,10 @@ button {
   color:gold;
 }
 
+.tunerheader {
+  margin-bottom: -0.5em;
+}
+
 .nav {
   float: right;
   background-color:rgb(31, 13, 2);

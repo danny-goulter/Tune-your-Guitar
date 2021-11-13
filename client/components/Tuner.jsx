@@ -4,7 +4,7 @@ import { playAudio } from '../apiClient'
 function Tuner () {
   return (
     <>
-      <h4>Tuning Your Guitar</h4>
+      <h4 className="tunerheader">Tuning Your Guitar</h4>
       <p>Learning to tune your Guitar is relatively straight-forward when compared to actually learning to play and should definitely be the first skill you master when you begin to learn the instrument.<br></br>
         <strong>Clicking on each of the buttons below will play an audio recording of what each string should sound like, you can use this to adjust the tuning pegs on your Guitar until you can hear the same sound.</strong></p>
       <div className="tuner">
