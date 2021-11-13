@@ -1,13 +1,22 @@
-@font-face {
-  font-family: 'Georgia Regular';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Georgia Regular'), url('./georgia.woff') format('woff');
+body {
+    font-family: Georgia;
+    background-color: wheat;
+    font-size: larger;
+  }
+
+button {
+    font-family:Georgia;
+    cursor: pointer;
+    font-size: larger;
+    border-radius: 40%;
+    padding: 0.5em;
+    margin: -0.25em;
   }
 
 .guitar {
-  width: 65%;
+  width: 45%;
   height: auto;
+  margin-bottom: -0.5em;
 }
 
 .Header {
@@ -15,4 +24,13 @@
   padding: 2em;
   text-align: center;
   color:gold;
+}
+
+.nav {
+  float: right;
+  background-color:rgb(31, 13, 2);
+  opacity: 0.75;
+  margin-top: 1em;
+  padding: 0.5em;
+  color: gold;
 }

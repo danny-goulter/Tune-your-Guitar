@@ -5,7 +5,7 @@ function Header () {
     <>
       <div className="Header">
         <h1>Tune and Learn Your Guitar</h1>
-        <h2>Guitar Tuner, how-to videos, handy Chords to know and more (coming soon)</h2>
+        <h2>Guitar Tuner, How-To Videos, Handy Chords to Know and More (coming soon)</h2>
       </div>
     </>
   )
