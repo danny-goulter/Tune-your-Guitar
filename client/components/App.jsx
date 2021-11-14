@@ -6,6 +6,7 @@ import Nav from './Nav'
 import Video from './Video'
 import About from './About'
 import Footer from './Footer'
+import Resources from './Resources'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Route path="/" element={<Home/>}/>
         <Route path="/videos" element={<Video/>}/>
         <Route path="/about" element={<About/>}/>
+        <Route path="/resources" element={<Resources/>}/>
       </Routes>
       <Footer />
     </>

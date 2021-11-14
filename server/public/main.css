@@ -7,16 +7,20 @@ body {
 button {
     font-family:Georgia;
     cursor: pointer;
-    font-size: larger;
+    font-size:medium;
+    font-weight: bold;
     border-radius: 40%;
     padding: 0.5em;
-    margin: -0.25em;
+    margin: -0.5em;
+    background-color: rgb(30, 14, 3);
+    color:goldenrod;
   }
 
 .guitar {
   width: 45%;
   height: auto;
   margin-bottom: -0.5em;
+  margin-top: -1em;
 }
 
 .Header {
@@ -27,10 +31,17 @@ button {
 }
 
 .Footer {
-  background-color:rgb(28, 16, 6);
+  background-color:rgb(30, 14, 3);
   color:goldenrod;
   text-align: center;
-  padding: 0.5em;
+  /* opacity: 0.75; */
+  position:fixed;
+  bottom: 0;
+  width: 99.1%;
+}
+
+h5 {
+  margin: 0.5em;
 }
 
 .tunerheader {
@@ -39,9 +50,74 @@ button {
 
 .nav {
   float: right;
-  background-color:rgb(28, 16, 6);
-  opacity: 0.75;
+  background-color:rgb(30, 14, 3);
+  /* opacity: 0.75; */
   margin-top: 1em;
   padding: 0.5em;
   color: goldenrod;
+  height: 865px;
+  margin-left: 1em;
+}
+
+.links {
+  color:goldenrod;
+  text-decoration: none;
+}
+
+.links:visited {
+  color:goldenrod;
+  text-decoration: none;
+}
+
+.links:hover {
+  color: white;
+}
+
+.twitterpic {
+  width: 140px; 
+  height: 30px;
+  margin: 0.3em;
+}
+
+.fbpic {
+  width: 140px; 
+  height: 30px;
+  margin: 0.3em;
+}
+
+.instapic {
+  width: 140px; 
+  height: 30px;
+  margin: 0.3em;
+}
+
+.socialmedia {
+  background-color: wheat;
+  width: 480px;
+  margin:auto;
+  margin-bottom: 0.5em;
+}
+
+#resource1 {
+  background-color: rgb(30, 14, 3);
+  max-width: 50%;
+  color:white;
+  padding:0.5em;
+  margin-top: 1em;
+}
+
+#resource2 {
+  background-color: rgb(30, 14, 3);
+  max-width: 50%;
+  color:white;
+  padding:0.5em;
+  margin-top: 1em;
+}
+
+#resource3 {
+  background-color: rgb(30, 14, 3);
+  max-width: 50%;
+  color:white;
+  padding:0.5em;
+  margin-top: 1em;
 }
