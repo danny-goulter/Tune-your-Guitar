@@ -9,6 +9,9 @@ function About () {
         <p>
           This website assumes you already know a little about Guitars and know some rudimentary playing techniques. If you have not started learning the instrument yet and you are starting right at the beginning there are lots of helpful resources and other online tutorials and courses out there. Please refer to our <Link to="/resources" className="links">Helpful Resources</Link> page for more info.
         </p>
+        <p>
+          On this page I use Standard Tuning to help you setup your Guitar. In you own time I recommend you research other Tunings, play along with some songs requires you to use different note configurations.
+        </p>
         <h4>Tips for Tuning and Taking Care of Your Guitar:</h4>
         <ul>
           <li>
