@@ -23,7 +23,14 @@ button {
   background-image: url(./images/header.png);
   padding: 2em;
   text-align: center;
-  color:gold;
+  color:goldenrod;
+}
+
+.Footer {
+  background-color:rgb(28, 16, 6);
+  color:goldenrod;
+  text-align: center;
+  padding: 0.5em;
 }
 
 .tunerheader {
@@ -32,9 +39,9 @@ button {
 
 .nav {
   float: right;
-  background-color:rgb(31, 13, 2);
+  background-color:rgb(28, 16, 6);
   opacity: 0.75;
   margin-top: 1em;
   padding: 0.5em;
-  color: gold;
+  color: goldenrod;
 }

@@ -5,7 +5,7 @@ function Nav () {
   return (
     <>
       <h4><Link to="/">Home</Link></h4>
-      <h4>About</h4>
+      <h4><Link to="/about">About</Link></h4>
       <h4><Link to="/videos">How To Videos</Link></h4>
       <h4>Open Chords</h4>
       <h4>Barre Chords</h4>
