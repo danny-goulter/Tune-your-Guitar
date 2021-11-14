@@ -9,7 +9,7 @@ function Footer () {
           <a href="https://twitter.com/dannyrambles"><img className="twitterpic"
             src="./images/twitter.png" alt="Twitter Profile"></img></a>
           <a href="https://www.facebook.com/dannygoulter"><img className="fbpic"
-            src="./images/facebook.jpeg" alt="Facebook Profile"></img></a>
+            src="./images/facebook.png" alt="Facebook Profile"></img></a>
           <a href="https://www.instagram.com/dannyrambles/"><img className="instapic"
             src="./images/insta.png" alt="Instagram Profile"></img></a>
         </div>
