@@ -40,7 +40,7 @@ export default {
       name: 'F Major',
       image: 'fmajorpic.png',
       imageplayed: 'fmajorreal.jpg',
-      sound: 'fmajor.wav'
+      sound: 'fmajor'
     }
   ]
 }
