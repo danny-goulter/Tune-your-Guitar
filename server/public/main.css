@@ -119,3 +119,24 @@ h5 {
   padding:0.5em;
   margin-top: 1em;
 }
+
+.chords {
+  display: inline-block;
+  padding: 1em;
+  color: goldenrod;
+}
+
+.chordpics {
+  width: 300px;
+  height:auto;
+  margin: 0.5em;
+}
+
+.chordname {
+  background-color: rgb(30, 14, 3);
+  padding:0.5em;
+}
+
+.fingerinfo {
+  margin-bottom: 5em;
+}
