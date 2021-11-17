@@ -8,6 +8,7 @@ import About from './About'
 import Footer from './Footer'
 import Resources from './Resources'
 import Chords from './Chords'
+import BarreChords from './BarreChords'
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Route path="/about" element={<About/>}/>
         <Route path="/resources" element={<Resources/>}/>
         <Route path="/chords" element={<Chords/>}/>
+        <Route path="/barrechords" element={<BarreChords/>}/>
       </Routes>
       <Footer />
     </>
